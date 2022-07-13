@@ -1,0 +1,25 @@
+{
+    "userinfo": {
+        "sub": "09e3f980-5642-42fb-898d-7b608c964c6b",
+        "realm_roles": [
+            "ROLE_offline_access",
+            "ROLE_uma_authorization",
+            "ROLE_default-roles-ns2labs"
+        ],
+        "email_verified": false,
+        "name": "John Doe",
+        "groups": [
+            "rptrx_devs",
+            "stash-users",
+            "apex-users",
+            "atlas_devs",
+            "confluence-users",
+            "jira-software-users",
+            "secret"
+        ],
+        "preferred_username": "i000000",
+        "given_name": "John",
+        "family_name": "Doe",
+        "email": "John.Doe@sapns2.com"
+    }
+}

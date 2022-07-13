@@ -1,0 +1,123 @@
+{
+    "pageTitle": "SOME company",
+    "header": "",
+    "headerImage": "images/some-company.png",
+    "userInfoUrl": "http://localhost:3004/userinfo",
+    "aboutUs": {
+        "enabled": true,
+        "title": "title goes here",
+        "text": "Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+    },
+    "tiles": [{
+            "image": "images/bamboo.png",
+            "headline": "Bamboo",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.atlassian.com/software/bamboo"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/bitbucket.png",
+            "headline": "Bitbucket",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://bitbucket.org/"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/mattermost.png",
+            "headline": "Chat",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://mattermost.com/"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/confluence.png",
+            "headline": "Confluence",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.atlassian.com/software/confluence"
+            },
+            "roles": [
+                "confluence-administrators",
+                "confluence-users"
+            ]
+        },
+        {
+            "image": "images/consul.png",
+            "headline": "Consul",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.consul.io/"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/grafana.png",
+            "headline": "Grafana",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://grafana.com/"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/jira.png",
+            "headline": "Jira",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.atlassian.com/software/jira"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/kibana.png",
+            "headline": "Kibana",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.elastic.co/kibana/"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/nexus.png",
+            "headline": "Nexus",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.sonatype.com/products/repository-pro"
+            },
+            "roles": [
+                "*"
+            ]
+        },
+        {
+            "image": "images/vault.png",
+            "headline": "Vault",
+            "buttonLaunch": {
+                "label": "View",
+                "url": "https://www.vaultproject.io/"
+            },
+            "roles": [
+                "*"
+            ]
+        }
+    ]
+}
